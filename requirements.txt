@@ -1,0 +1,3 @@
+gpt4all==2.7.0
+nodriver==0.34
+spacy==3.7.5
